@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.exe
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.deps.json
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.runtimeconfig.json
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\bin\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.sourcelink.json
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.dll
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\refint\Desafio1NombreApellido.dll
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.pdb
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\Desafio1NombreApellido.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\01.Clase\Desafio1NombreApellido\obj\Debug\net8.0\ref\Desafio1NombreApellido.dll
