@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.sourcelink.json
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\03. Clase\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll

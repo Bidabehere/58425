@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.exe
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.deps.json
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.runtimeconfig.json
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.dll
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\bin\Debug\net8.0\CadenasBucles.pdb
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.sourcelink.json
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.dll
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\refint\CadenasBucles.dll
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.pdb
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\CadenasBucles.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\03. Clase\CadenasBucles\obj\Debug\net8.0\ref\CadenasBucles.dll

@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\bin\Debug\net8.0\ValidarPass.exe
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\bin\Debug\net8.0\ValidarPass.deps.json
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\bin\Debug\net8.0\ValidarPass.runtimeconfig.json
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\bin\Debug\net8.0\ValidarPass.dll
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\bin\Debug\net8.0\ValidarPass.pdb
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.sourcelink.json
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.dll
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\refint\ValidarPass.dll
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.pdb
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ValidarPass.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\03. Clase\ValidarPass\obj\Debug\net8.0\ref\ValidarPass.dll
