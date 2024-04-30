@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ValidarPass")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ejemplo01")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ValidarPass")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ValidarPass")]
+[assembly: System.Reflection.AssemblyProductAttribute("ejemplo01")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ejemplo01")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

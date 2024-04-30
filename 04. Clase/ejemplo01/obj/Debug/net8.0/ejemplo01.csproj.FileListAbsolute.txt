@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.exe
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.deps.json
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.runtimeconfig.json
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.dll
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\bin\Debug\net8.0\ejemplo01.pdb
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.sourcelink.json
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.dll
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\refint\ejemplo01.dll
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.pdb
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ejemplo01.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\04. Clase\ejemplo01\obj\Debug\net8.0\ref\ejemplo01.dll

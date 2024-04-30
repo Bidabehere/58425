@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\bin\Debug\net8.0\AppVentas.exe
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\bin\Debug\net8.0\AppVentas.deps.json
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\bin\Debug\net8.0\AppVentas.runtimeconfig.json
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\bin\Debug\net8.0\AppVentas.dll
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\bin\Debug\net8.0\AppVentas.pdb
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.sourcelink.json
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.dll
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\refint\AppVentas.dll
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.pdb
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\AppVentas.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\04. Clase\AppVentas\obj\Debug\net8.0\ref\AppVentas.dll
