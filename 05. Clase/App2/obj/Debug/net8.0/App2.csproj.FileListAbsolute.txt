@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\05. Clase\App2\bin\Debug\net8.0\App2.exe
+C:\Coder\.net\58425\58425\05. Clase\App2\bin\Debug\net8.0\App2.deps.json
+C:\Coder\.net\58425\58425\05. Clase\App2\bin\Debug\net8.0\App2.runtimeconfig.json
+C:\Coder\.net\58425\58425\05. Clase\App2\bin\Debug\net8.0\App2.dll
+C:\Coder\.net\58425\58425\05. Clase\App2\bin\Debug\net8.0\App2.pdb
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.sourcelink.json
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.dll
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\refint\App2.dll
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.pdb
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\App2.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\05. Clase\App2\obj\Debug\net8.0\ref\App2.dll
