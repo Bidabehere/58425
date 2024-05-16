@@ -1,0 +1,17 @@
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.exe
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.deps.json
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\bin\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form1.resources
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.sourcelink.json
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.dll
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\refint\WinFormsApp2.dll
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.pdb
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\08. Clase\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
