@@ -29,6 +29,11 @@ namespace WinFormsApp1
 
         private void Form1_Load(object sender, EventArgs e)
         {
+
+            cargarUsuarios();
+        }
+        public void cargarUsuarios()
+        {
             idUsuario = 0;
             GestorBaseDeDatos database = new GestorBaseDeDatos();
             dgvUsuarios.AutoGenerateColumns = true;

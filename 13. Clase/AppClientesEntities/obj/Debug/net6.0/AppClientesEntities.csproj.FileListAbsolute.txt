@@ -1,0 +1,12 @@
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.deps.json
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\bin\Debug\net6.0\AppClientesEntities.pdb
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.sourcelink.json
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\refint\AppClientesEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\AppClientesEntities.pdb
+C:\Coder\.net\58425\58425\13. Clase\AppClientesEntities\obj\Debug\net6.0\ref\AppClientesEntities.dll

@@ -1,0 +1,12 @@
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.deps.json
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\bin\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.sourcelink.json
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\refint\SistemaGestionEntities.dll
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\SistemaGestionEntities.pdb
+C:\Coder\.net\58425\58425\13. Clase\SistemaGestionEntities\obj\Debug\net6.0\ref\SistemaGestionEntities.dll

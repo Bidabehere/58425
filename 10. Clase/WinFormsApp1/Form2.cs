@@ -102,6 +102,7 @@ namespace WinFormsApp1
             limpiar();
             this.Close();
             Program.form1.idUsuario = 0;
+            Program.form1.cargarUsuarios();
             Program.form1.Show();
 
         }
