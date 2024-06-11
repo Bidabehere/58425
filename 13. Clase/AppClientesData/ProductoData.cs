@@ -76,5 +76,59 @@ namespace AppClientesData
                 throw new Exception("ID NO ENCONTRADO");
             }
         }
+    
+        public static bool DeleteProducto(int id)
+        {
+            string connectionString = @"Server=localhost\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                string query = "DELETE FROM Productos WHERE Id=@id";
+                SqlCommand command = new SqlCommand(query, connection);
+                connection.Open();
+                command.Parameters.AddWithValue("id", id);
+
+                return command.ExecuteNonQuery() > 0;
+            }
+        }
+    
+        public static bool CreateProducto(Producto producto) 
+        {
+            string connectionString = @"Server=localhost\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+            using(SqlConnection connection = new SqlConnection( connectionString))
+            {
+                string query = "INSERT INTO Productos(Descripcion,Costo,PrecioVenta,Stock,IdUsuario) values(@descripcion,@costo,@precioVenta,@stock,@idUsuario)";
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("descripcion", producto.Descripcion);
+                command.Parameters.AddWithValue("costo", producto.Costo);
+                command.Parameters.AddWithValue("precioVenta", producto.PrecioVenta);
+                command.Parameters.AddWithValue("stock", producto.Stock);
+                command.Parameters.AddWithValue("idUsuario", producto.IdUsuario);
+
+                return command.ExecuteNonQuery() > 0;
+
+            }
+        }
+        
+        public static bool EditProducto(Producto producto)
+        {
+            string connectionString = @"Server=localhost\SQLEXPRESS;Database=SistemaGestion;Trusted_Connection=True;";
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                string query = "UPDATE Productos SET Descripcion = @descripcion, Costo = @costo, PrecioVenta = @precioVenta, Stock = @stock, IdUsuario = @idUsuario WHERE  Id = @id";
+
+                SqlCommand command = new SqlCommand(query, connection);
+                command.Parameters.AddWithValue("descripcion", producto.Descripcion);
+                command.Parameters.AddWithValue("costo", producto.Costo);
+                command.Parameters.AddWithValue("precioVenta", producto.PrecioVenta);
+                command.Parameters.AddWithValue("stock", producto.Stock);
+                command.Parameters.AddWithValue("idUsuario", producto.IdUsuario);
+                command.Parameters.AddWithValue("id", producto.Id);
+                connection.Open();
+
+                return command.ExecuteNonQuery() > 0;
+
+            }
+        }
     }
 }

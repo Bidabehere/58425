@@ -14,5 +14,23 @@ namespace WebApplication1.Controllers
         {
             return ClienteBussiness.GetClientes().ToArray();
         }
+
+        [HttpDelete(Name ="EliminarCliente")]
+        public void Delete([FromBody] int id)
+        {
+            ClienteBussiness.EliminarCliente(id);
+        }
+        [HttpPut(Name ="ModificarCliente")]
+        public void Put([FromBody] Cliente cliente)
+        {
+            ClienteBussiness.ModificarCliente(cliente);
+        }
+        [HttpPost(Name ="AltaCliente")]
+        public void Post([FromBody] Cliente cliente) 
+        {
+            ClienteBussiness.AltaCliente(cliente);
+
+        }
+
     }
 }
