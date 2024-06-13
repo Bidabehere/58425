@@ -1,0 +1,15 @@
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\bin\Debug\net6.0\ConsoleAppHttpClient.exe
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\bin\Debug\net6.0\ConsoleAppHttpClient.deps.json
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\bin\Debug\net6.0\ConsoleAppHttpClient.runtimeconfig.json
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\bin\Debug\net6.0\ConsoleAppHttpClient.dll
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\bin\Debug\net6.0\ConsoleAppHttpClient.pdb
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.AssemblyInfoInputs.cache
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.AssemblyInfo.cs
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.csproj.CoreCompileInputs.cache
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.sourcelink.json
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.dll
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\refint\ConsoleAppHttpClient.dll
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.pdb
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ConsoleAppHttpClient.genruntimeconfig.cache
+C:\Coder\.net\58425\58425\15. Clase\ConsoleAppHttpClient\obj\Debug\net6.0\ref\ConsoleAppHttpClient.dll
